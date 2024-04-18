@@ -14,6 +14,12 @@
   - [Tests](#tests)
   - [Questions](#questions)
 
+  ## Visuals
+  <img src="./public/assets/images/home.png">
+  <img src="./public/assets/images/notes.png">
+  <img src="./public/assets/images/notes_2.png">
+
+
   ## Usage 
   From the home page you click the "Get Started" button and you will be redirected to the notes page. From here you can enter a note title and description and save it using the button that appears in the upper right corner. Once saved your task will be displayed on the left side of the screen. If you click on the saved task it will display it on the right. By clicking on the new task button that appears in the upper right corner you will be able to enter a new task. To Deleta a task you can click on the red trashcan icon next to the desired task and it will be deleted.
 
